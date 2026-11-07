@@ -16,7 +16,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 🦁 Edit.or Lynx Ecosystem
+### 🦁 EDIT.OR.LYNX Ecosystem
 
 A complete creative toolkit for macOS — from editor engine to admin studio.
 
